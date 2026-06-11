@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I am Dan Anh
 
-<!--
-**danwanh/danwanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a third-year Information Systems student interested in backend development, data engineering, and data analytics.
+* I enjoy building scalable applications, developing data pipelines, and turning data into meaningful insights.
+---
 
-Here are some ideas to get you started:
+## Most Used Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danwanh\&layout=compact)
+
+---
+
+## Contact Me
+
+Email: [dananh890@gmail.com](mailto:dananh890@gmail.com)
