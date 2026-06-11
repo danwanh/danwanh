@@ -1,7 +1,8 @@
 # Hi there 👋 I am Dan Anh
 
-* I'm a third-year Information Systems student interested in backend development, data engineering, and data analytics.
-* I enjoy building scalable applications, developing data pipelines, and turning data into meaningful insights.
+* I'm a third-year Information Systems student interested in backend development, data analytics, and data-driven applications.
+* I enjoy building software systems, working with data, and exploring technologies related to scalable data processing.
+
 ---
 
 ## Most Used Languages
