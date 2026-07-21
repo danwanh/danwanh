@@ -6,8 +6,7 @@
 ---
 
 ## Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwanh&layout=compact&theme=tokyonight&langs_count=8" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danwanh&layout=compact&theme=tokyonight)
 
 ---
 
